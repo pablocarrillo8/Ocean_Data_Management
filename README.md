@@ -4,13 +4,13 @@ Documentación del curso OceanTeacher.org
 ## Course outline
 The course is divided into the following modules:
 
-> Module 1. Research Data Life Cycle
+- Module 1. Research Data Life Cycle
 This module will introduce you to the different phases of the Research Data Life Cycle (RDLC), and briefly explain what each of these phases generally encompasses. In the following modules, each phase of the RDLC will be dealt with in more detail, with specific aspects and best practices thoroughly explained.
 
-> Module 2. Planning phase
+- Module 2. Planning phase
 Phase 1 of the Research Data Life Cycle - the planning phase - ideally takes place before even a single sample is collected, or large-scale sampling campaigns are being planned.
 
-> Module 3. Data acquisition: finding and creating data
+- Module 3. Data acquisition: finding and creating data
 This module will explain the phase where observations are made and surveys undertaken. This will involve documentation of data collection instruments and methods and information necessary to interpret and use the data. Data about the data - known as metadata - is just as important as the data itself. Metadata is the data providing information about one or more aspects of the data; it summarizes the basic information about data which can make it easier to track and work with the data.
 
 - Module 4.  Processing and analysing data
