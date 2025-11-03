@@ -13,16 +13,16 @@ Phase 1 of the Research Data Life Cycle - the planning phase - ideally takes pla
 > Module 3. Data acquisition: finding and creating data
 This module will explain the phase where observations are made and surveys undertaken. This will involve documentation of data collection instruments and methods and information necessary to interpret and use the data. Data about the data - known as metadata - is just as important as the data itself. Metadata is the data providing information about one or more aspects of the data; it summarizes the basic information about data which can make it easier to track and work with the data.
 
-> Module 4.  Processing and analysing data
+- Module 4.  Processing and analysing data
 This module provides an overview of best practices for organising and managing research data, including how to deal with file formats, file naming and folder structures. 
 
-> Module 5. Preserving data
+- Module 5. Preserving data
 This module will Identify appropriate repositories for your data .
 
-> Module 6. Sharing data
+- Module 6. Sharing data
 This module will describe the importance of licensing your data and the types of licences that are available.
 
-> Module 7. Reusing data
+- Module 7. Reusing data
 This module will explain the common concerns related to data reuse and the motivation for publication of data.
 
 Course duration
