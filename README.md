@@ -1,5 +1,6 @@
 # Ocean Data Management
-Documentación del curso [https://oceanexpert.org/](OceanTeacher.org)  
+Documentación del curso [https://oceanexpert.org/](https://oceanexpert.org/) OceanTeacher.org  
+<a href="https://oceanexpert.org/" target="_blank">OceanTeacher.org</a>
 
 ## Course outline
 The course is divided into the following modules:
